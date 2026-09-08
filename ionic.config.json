@@ -1,0 +1,7 @@
+{
+  "name": "jovem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
